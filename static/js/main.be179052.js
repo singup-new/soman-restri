@@ -10200,7 +10200,7 @@
                                                 children: "Detailed Video Information"
                                             }), (0,
                                                 he.jsx)("video", {
-                                                src: "https://cdn.glitch.global/31b556b9-4313-4d9d-9619-ee4546696f71/detailed-video.mp4?v=1732333110082",
+                                                src: "detailed-video.mp4",
                                                 controls: !0,
                                                 poster: me,
                                                 autoPlay: !0
